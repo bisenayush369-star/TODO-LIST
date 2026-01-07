@@ -1,32 +1,36 @@
 # TODO-LIST
 
-A simple Todo List app to manage daily tasks.
+A simple and clean **Todo List application** to manage daily tasks efficiently.
 
 ---
 
-## What this app does
+## 🔗 Live Demo
 
-- Add a new todo
-- Edit a todo
-- Mark todo as completed
-- Delete a todo
-- Save todos in browser using LocalStorage
-- Todos remain saved after page refresh
+👉 https://ayush-itask.netlify.app/
 
 ---
 
-## Built with
+## 🚀 What this app does
 
-- React
-- Vite
-- Tailwind CSS
-- JavaScript
-- LocalStorage
+- Add new todos  
+- Edit existing todos  
+- Mark todos as completed  
+- Delete todos  
+- Save todos using **LocalStorage**  
+- Todos remain saved even after page refresh  
 
 ---
 
-## How to run this project
+## 🛠 Built with
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/bisenayush369-star/TODO-LIST.git
+- React  
+- Vite  
+- Tailwind CSS  
+- JavaScript  
+- LocalStorage  
+
+---
+
+## 📌 Why this project
+
+This project focuses on **clean UI**, **basic CRUD functionality**, and **state persistence**, making it a solid beginner-to-intermediate React project.
