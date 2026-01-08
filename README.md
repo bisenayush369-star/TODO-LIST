@@ -34,3 +34,12 @@ A simple and clean **Todo List application** to manage daily tasks efficiently.
 ## 📌 Why this project
 
 This project focuses on **clean UI**, **basic CRUD functionality**, and **state persistence**, making it a solid beginner-to-intermediate React project.
+
+## 👨‍💻 Dev
+Ayush (AyushdevX)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub.
